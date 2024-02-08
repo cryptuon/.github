@@ -1,4 +1,4 @@
-### Hi! I am [@cryptuon](https://twitter.com/cryptuon) (Cryptuon Labs)
+### Hi! I am [@cryptuon](https://twitter.com/cryptuon) (Cryptuon Research)
 
 We are a blockchain research and development company. 
 
