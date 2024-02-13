@@ -15,7 +15,7 @@ You can find us on
  * [Twitter](https://twitter.com/cryptuon)
 
 
-Research
+Research papers
  * ["Universal Atomic Composability"](https://github.com/cryptuon/tesseract-paper)
  * ["Generalised DePIN Protocol: A Framework for Decentralized Physical Infrastructure Networks"](https://github.com/cryptuon/generalised-depin-protocol)
  * ["FairFlow Protocol: Equitable Maximal Extractable Value (MEV) mitigation in Ethereum"](https://github.com/cryptuon/fairflow-protocol-paper)
