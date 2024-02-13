@@ -13,3 +13,11 @@ Please do contact us, if our work is of interest. 🤓
 You can find us on
  * [Website](https://cryptuon.com)
  * [Twitter](https://twitter.com/cryptuon)
+
+
+Research
+ * ["Universal Atomic Composability"](https://github.com/cryptuon/tesseract-paper)
+ * ["Generalised DePIN Protocol: A Framework for Decentralized Physical Infrastructure Networks"](https://github.com/cryptuon/generalised-depin-protocol)
+ * ["FairFlow Protocol: Equitable Maximal Extractable Value (MEV) mitigation in Ethereum"](https://github.com/cryptuon/fairflow-protocol-paper)
+ * ["DECENTRALIZED DEEPFAKE DETECTION BLOCKCHAIN NETWORK USING DYNAMIC ALGORITHM MANAGEMENT"](https://github.com/cryptuon/deepfake-detection-network)
+ * ["Centralized Intermediation in a Decentralized Web3 Economy: Value Accrual and Extraction"](https://github.com/cryptuon/decentralised-web3-value-accrual)
