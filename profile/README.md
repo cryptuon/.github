@@ -8,16 +8,15 @@ We have been busy researching and publishing papers in various area of blockchai
 
 One of our works ["Towards Universal Atomic Composability: A Formal Model for Multi-Rollup Environments on Ethereum"](https://github.com/cryptuon/tesseract-paper) was recently selected by A16Z's crypto startup school for interview. We are now prototyping the [protocol](https://github.com/cryptuon/tesseract) and seeking customers/partners. Some of our work has made its way into whitepaper of emerging protocols. 
 
-Please do contact us, if our work is of interest. 🤓
-
-You can find us on
- * [Website](https://cryptuon.com)
- * [Twitter](https://twitter.com/cryptuon)
-
-
 Research papers
  * ["Towards Universal Atomic Composability: A Formal Model for Multi-Rollup Environments on Ethereum"](https://github.com/cryptuon/tesseract-paper)
  * ["Generalised DePIN Protocol: A Framework for Decentralized Physical Infrastructure Networks"](https://github.com/cryptuon/generalised-depin-protocol)
  * ["FairFlow Protocol: Equitable Maximal Extractable Value (MEV) mitigation in Ethereum"](https://github.com/cryptuon/fairflow-protocol-paper)
  * ["DECENTRALIZED DEEPFAKE DETECTION BLOCKCHAIN NETWORK USING DYNAMIC ALGORITHM MANAGEMENT"](https://github.com/cryptuon/deepfake-detection-network)
  * ["Centralized Intermediation in a Decentralized Web3 Economy: Value Accrual and Extraction"](https://github.com/cryptuon/decentralised-web3-value-accrual)
+
+Please do contact us, if our work is of interest. 🤓
+
+You can find us on
+ * [Website](https://cryptuon.com)
+ * [Twitter](https://twitter.com/cryptuon)
