@@ -6,7 +6,7 @@ We are lead by [@dipankar](https://github.com/dipankar), who is a software archi
 
 We have been busy researching and publishing papers in various area of blockchain. We have made contributions in MEV, Atomic transactions across rollups, and various other areas.
 
-One of our work ["Universal Atomic Composability"](https://github.com/cryptuon/tesseract-paper) was recently selected by A16Z's crypto startup school for interview. We are now prototyping the solution and seeking relevant partners. Some of our work has made its way into whitepaper of emerging protocols. 
+One of our works ["Universal Atomic Composability"](https://github.com/cryptuon/tesseract-paper) was recently selected by A16Z's crypto startup school for interview. We are now prototyping the [protocol](https://github.com/cryptuon/tesseract) and seeking customers/partners. Some of our work has made its way into whitepaper of emerging protocols. 
 
 Please do contact us, if our work is of interest. 🤓
 
