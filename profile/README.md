@@ -15,6 +15,11 @@ Research papers
  * ["DECENTRALIZED DEEPFAKE DETECTION BLOCKCHAIN NETWORK USING DYNAMIC ALGORITHM MANAGEMENT"](https://github.com/cryptuon/deepfake-detection-network)
  * ["Centralized Intermediation in a Decentralized Web3 Economy: Value Accrual and Extraction"](https://github.com/cryptuon/decentralised-web3-value-accrual)
 
+Protocols  
+ * CREATE protocol - DeAI creating the future of creative formats
+ * Epistral - Making social media healthy again 
+ * dTelecom - Realtime video conferencing DePIN 
+
 Please do contact us, if our work is of interest. 🤓
 
 You can find us on
