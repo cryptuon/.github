@@ -18,7 +18,8 @@ Research papers
 Protocols  
  * [CREATE protocol](https://www.createprotocol.org/) - DeAI creating the future of creative formats
  * [Epistral](https://epistral.xyz/) - Making social media healthy again 
- * [dTelecom](https://dtelecom.org/) - Realtime video conferencing DePIN 
+ * [dTelecom](https://dtelecom.org/) - Realtime video conferencing DePIN
+ * Skyedge - Creating datasets for DeAI
 
 Please do contact us, if our work is of interest. 🤓
 
