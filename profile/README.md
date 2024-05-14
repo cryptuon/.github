@@ -26,5 +26,3 @@ Please do contact us, if our work is of interest. 🤓
 You can find us on
  * [Website](https://cryptuon.com)
  * [Twitter](https://twitter.com/cryptuon)
-
-(C) 2024 Cryptuon Research Limited
