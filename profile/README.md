@@ -16,10 +16,11 @@ Research papers
  * ["Centralized Intermediation in a Decentralized Web3 Economy: Value Accrual and Extraction"](https://github.com/cryptuon/decentralised-web3-value-accrual)
 
 Protocols  
- * [CREATE protocol](https://www.createprotocol.org/) - DeAI creating the future of creative formats
- * [Epistral](https://epistral.xyz/) - Making social media healthy again 
+ * [CREATE protocol](https://www.createprotocol.org/) - AI x IP = Blockchain
+ * [Travlr network](https://www.travlr.network) - Ubiquitious travel data
  * [dTelecom](https://dtelecom.org/) - Realtime video conferencing DePIN
- * Skyedge - Creating datasets for DeAI
+ * [Epistral](https://epistral.xyz/) - Making social media healthy again 
+
 
 Please do contact us, if our work is of interest. 🤓
 
