@@ -19,7 +19,6 @@ Protocols
  * [CREATE protocol](https://www.createprotocol.org/) - AI x IP = Blockchain
  * [Travlr network](https://www.travlr.network) - Ubiquitious travel data
  * [dTelecom](https://dtelecom.org/) - Realtime video conferencing DePIN
- * [Epistral](https://epistral.xyz/) - Making social media healthy again 
 
 
 Please do contact us, if our work is of interest. 🤓
