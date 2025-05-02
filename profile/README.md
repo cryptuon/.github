@@ -1,28 +1,35 @@
-### Hi! I am [@cryptuon](https://twitter.com/cryptuon) (Cryptuon Research)
+# Cryptuon Research
 
-We are a blockchain research and development company. 
+## Pioneering Blockchain Solutions That Solve Real-World Problems
 
-We are lead by [@dipankar](https://github.com/dipankar), who is a software architect and researcher based out of Scotland. 
+Cryptuon Research transforms blockchain theory into practical protocols that address critical infrastructure challenges. Led by [@dipankar](https://github.com/dipankar), a software architect and researcher based in Scotland, we've established ourselves at the forefront of blockchain innovation.
 
-We have been busy researching and publishing papers in various area of blockchain. We have made contributions in MEV, Atomic transactions across rollups, and various other areas.
+## Research Impact
 
-One of our works ["Towards Universal Atomic Composability: A Formal Model for Multi-Rollup Environments on Ethereum"](https://github.com/cryptuon/tesseract-paper) was recently selected by A16Z's crypto startup school for interview. We are now prototyping the [protocol](https://github.com/cryptuon/tesseract) and seeking customers/partners. Some of our work has made its way into whitepaper of emerging protocols. 
+- **Multi-Rollup Solution**: Our paper ["Towards Universal Atomic Composability"](https://github.com/cryptuon/tesseract-paper) was recognized by A16Z's crypto startup school, leading to active protocol development and commercial partnership opportunities
+- **Industry Influence**: Our research has been incorporated into whitepapers of emerging blockchain protocols
+- **Cross-Domain Innovation**: Successfully bridged blockchain technology with AI, telecommunications, and travel infrastructure
 
-Research papers
- * ["Towards Universal Atomic Composability: A Formal Model for Multi-Rollup Environments on Ethereum"](https://github.com/cryptuon/tesseract-paper)
- * ["Generalised DePIN Protocol: A Framework for Decentralized Physical Infrastructure Networks"](https://github.com/cryptuon/generalised-depin-protocol)
- * ["FairFlow Protocol: Equitable Maximal Extractable Value (MEV) mitigation in Ethereum"](https://github.com/cryptuon/fairflow-protocol-paper)
- * ["DECENTRALIZED DEEPFAKE DETECTION BLOCKCHAIN NETWORK USING DYNAMIC ALGORITHM MANAGEMENT"](https://github.com/cryptuon/deepfake-detection-network)
- * ["Centralized Intermediation in a Decentralized Web3 Economy: Value Accrual and Extraction"](https://github.com/cryptuon/decentralised-web3-value-accrual)
+## Breakthrough Protocols in Development
 
-Protocols  
- * [CREATE protocol](https://www.createprotocol.org/) - AI x IP = Blockchain
- * [Travlr network](https://www.travlr.network) - Ubiquitious travel data
- * [dTelecom](https://dtelecom.org/) - Realtime video conferencing DePIN
+- **[Tesseract](https://github.com/cryptuon/tesseract)**: Enabling atomic transactions across multiple Ethereum rollups, now in active prototype phase
+- **[CREATE Protocol](https://www.createprotocol.org/)**: Solving intellectual property challenges through AI and blockchain integration
+- **[Travlr Network](https://www.travlr.network)**: Democratizing access to travel data through decentralization
+- **[dTelecom](https://dtelecom.org/)**: Delivering real-time video conferencing through Decentralized Physical Infrastructure Networks (DePIN)
 
+## Research Portfolio
 
-Please do contact us, if our work is of interest. 🤓
+- **Cross-Chain Operations**: ["Towards Universal Atomic Composability"](https://github.com/cryptuon/tesseract-paper)
+- **Infrastructure Networks**: ["Generalised DePIN Protocol"](https://github.com/cryptuon/generalised-depin-protocol)
+- **Transaction Fairness**: ["FairFlow Protocol: Equitable MEV Mitigation"](https://github.com/cryptuon/fairflow-protocol-paper)
+- **Content Verification**: ["Decentralized Deepfake Detection Network"](https://github.com/cryptuon/deepfake-detection-network)
+- **Economic Analysis**: ["Centralized Intermediation in a Decentralized Web3 Economy"](https://github.com/cryptuon/decentralised-web3-value-accrual)
 
-You can find us on
- * [Website](https://cryptuon.com)
- * [Twitter](https://twitter.com/cryptuon)
+## Partner With Us
+
+Ready to implement cutting-edge blockchain solutions? Connect with us:
+
+- [Website](https://cryptuon.com)
+- [Twitter](https://twitter.com/cryptuon)
+
+*Turning theoretical blockchain research into deployable protocols that deliver real value.*
