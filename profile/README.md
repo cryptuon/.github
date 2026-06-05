@@ -8,7 +8,7 @@ We turn peer-reviewed research into deployable infrastructure. Cross-chain compo
 
 [cryptuon.com](https://www.cryptuon.com) · [Twitter/X](https://x.com/cryptuon) · [GitHub](https://github.com/cryptuon)
 
-20 public projects · MIT · Based in the United Kingdom
+20 public projects · MIT
 
 </div>
 
@@ -95,6 +95,4 @@ Open source under MIT. See individual repositories for setup.
 
 ## Contact
 
-Led by [@dipankar](https://github.com/dipankar) · Scotland · [cryptuon.com](https://www.cryptuon.com) · [Twitter @cryptuon](https://x.com/cryptuon)
-
-<sub>Project descriptions are quoted from each repository's own GitHub description. We don't make them up.</sub>
+Cryptuon Research · [cryptuon.com](https://www.cryptuon.com) · [Twitter @cryptuon](https://x.com/cryptuon)
