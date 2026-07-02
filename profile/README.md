@@ -58,7 +58,7 @@ Every tool here is designed so you don't need to read the paper to use the proto
 | Project | What it does | Links |
 |---|---|---|
 | **[njord](https://github.com/cryptuon/njord)** | Decentralized affiliate marketing on Solana with on-chain escrow and fiat on/off ramps. | [Site](https://njord.cryptuon.com/) · [Docs](https://docs.cryptuon.com/njord/) |
-| **[solanavault](https://github.com/cryptuon/solanavault)** | Decentralized historical data availability protocol for Solana. | [Site](https://solanavault.cryptuon.com/) · [Docs](https://docs.cryptuon.com/solanavault/) |
+| **[solanavault](https://github.com/cryptuon/solanavault)** | Decentralized blockchain compression and storage network for Solana — 15-25:1 compression. | [Site](https://solanavault.cryptuon.com/) · [Docs](https://docs.cryptuon.com/solanavault/) |
 | **[sarpoy](https://github.com/cryptuon/sarpoy)** | Solana-native puzzle arena with on-chain prize pools and pay-per-message clues. | [Site](https://sarpoy.cryptuon.com/) · [Docs](https://docs.cryptuon.com/sarpoy/) |
 | **[solanalm](https://github.com/cryptuon/solanalm)** | Decentralized network for LLM inference and federated learning on Solana. | [Site](https://solanalm.cryptuon.com/) · [Docs](https://docs.cryptuon.com/solanalm/) |
 | **[mobymarket](https://github.com/cryptuon/mobymarket)** | Institutional-grade DeFi — trade real size without moving markets or losing privacy. | [Site](https://mobymarket.cryptuon.com/) · [Docs](https://docs.cryptuon.com/mobymarket/) |
